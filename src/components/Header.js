@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppBar, Toolbar, Typography, Button, Box, Container } from '@mui/material';
+import { AppBar, Toolbar, Typography, Box, Container } from '@mui/material';
 import MovieIcon from '@mui/icons-material/Movie';
 import { Link } from 'wouter';
 
